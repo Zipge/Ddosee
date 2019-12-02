@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#122259</item>
+        <item name="colorPrimaryDark">#122259</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#798BA8</item>
+        <item name="android:fontFamily">@font/font_default</item>
+    </style>
+</resources>
